@@ -1,0 +1,13 @@
+support,itemsets,length
+0.33707865168539325,frozenset({'Alcohol=Faible'}),1
+0.33146067415730335,frozenset({'Alcohol=Moyen'}),1
+0.33146067415730335,frozenset({'Alcohol=Élevé'}),1
+0.8820224719101124,frozenset({'Magnesium=Petit'}),1
+0.33707865168539325,frozenset({'Malic acid=Faible'}),1
+0.3258426966292135,frozenset({'Malic acid=Moyen'}),1
+0.33707865168539325,frozenset({'Malic acid=Élevé'}),1
+0.3089887640449438,"frozenset({'Alcohol=Faible', 'Magnesium=Petit'})",2
+0.29775280898876405,"frozenset({'Alcohol=Moyen', 'Magnesium=Petit'})",2
+0.29213483146067415,"frozenset({'Malic acid=Faible', 'Magnesium=Petit'})",2
+0.2808988764044944,"frozenset({'Malic acid=Moyen', 'Magnesium=Petit'})",2
+0.3089887640449438,"frozenset({'Malic acid=Élevé', 'Magnesium=Petit'})",2
